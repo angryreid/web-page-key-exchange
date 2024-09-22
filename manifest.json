@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Domain Specific Script Injector",
+  "name": "Key exchange",
   "version": "1.0",
-  "description": "Injects a JavaScript file into a specific domain.",
+  "description": "Listening one keydown event and trigger another keydown",
   "permissions": ["activeTab", "scripting"],
   "background": {
     "service_worker": "background.js"
