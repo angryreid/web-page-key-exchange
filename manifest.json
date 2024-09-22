@@ -12,5 +12,11 @@
       "matches": ["*://web.shanbay.com/wordsweb/*"],
       "js": ["contentScript.js"]
     }
-  ]
+  ],
+  "icons": {
+    "16": "assets/icons/icon.png",
+    "32": "assets/icons/icon.png",
+    "48": "assets/icons/icon.png",
+    "128": "assets/icons/icon.png"
+  }
 }
